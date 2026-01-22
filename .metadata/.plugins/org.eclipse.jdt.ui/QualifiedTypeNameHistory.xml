@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="entities.CurrencyConverter"/>
+    <fullyQualifiedTypeName name="entities.Conta"/>
+    <fullyQualifiedTypeName name="entities.ex03"/>
+    <fullyQualifiedTypeName name="entities.ex09"/>
+    <fullyQualifiedTypeName name="entities.ex10"/>
+    <fullyQualifiedTypeName name="entities.ex11"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="entities.ex12"/>
+    <fullyQualifiedTypeName name="entities.Account"/>
+    <fullyQualifiedTypeName name="entities.SavingsAccount"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="model.exceptions.DomainException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+</qualifiedTypeNameHistroy>
