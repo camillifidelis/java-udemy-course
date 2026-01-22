@@ -10,12 +10,14 @@ Este repositório é dedicado ao armazenamento de códigos, notas e resoluções
 
 O conteúdo está organizado por módulos para facilitar a consulta:
 
-* **`basic-exercicios`**: Fundamentos da linguagem, lógica condicional e estruturas de repetição.
-* **`OO-exercicios`**: Introdução à Orientação a Objetos (Classes, Atributos, Métodos, Estáticos).
-* **`secao10`**: Comportamento de memória, Arrays e Listas.
-* **`secao11`**: Tópicos especiais sobre Datas e Horas.
-* **`secao13`**: Enumerações e Composição.
-* **`secao14`**: Herança e Polimorfismo.
+*  **`basic-exercicios`**: Fundamentos da linguagem, lógica condicional e estruturas de repetição.
+*  **`OO-exercicios`**: Introdução à Orientação a Objetos.
+*  **`secao10`**: Comportamento de memória, arrays e listas.
+*  **`secao11`**: Tópicos especiais em Java: data-hora.
+*  **`secao12`**: Enumerações e composição.
+*  **`secao13`**: Herança e polimorfismo.
+*  **`secao14`**: Tratamento de exceções.
+*  **`secao15`**: Trabalhando com arquivos.
 
 ## 🛠 Tecnologias Utilizadas
 
