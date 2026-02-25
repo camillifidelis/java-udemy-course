@@ -19,6 +19,7 @@ O conteúdo está organizado por módulos para facilitar a consulta:
 *  **`secao14`**: Tratamento de exceções.
 *  **`secao15`**: Trabalhando com arquivos.
 *  **`secao16`**: Interfaces
+*  **`secao17`**: Generics, set e map
 
 ## 🛠 Tecnologias Utilizadas
 
