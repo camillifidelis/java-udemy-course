@@ -1,8 +1,19 @@
-import java.util.*;
-import java.util.concurrent.*;
-import java.lang.reflect.*;
-import java.io.*;
-import java.util.stream.*;
+import java.io.File;
+import java.lang.reflect.Field;
+import java.lang.reflect.Method;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Optional;
+import java.util.Scanner;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
+import java.util.concurrent.TimeUnit;
+import java.util.stream.Stream;
 
 public class Program {
 
@@ -37,9 +48,6 @@ public class Program {
 
         try { executor.shutdown(); executor.submit(() -> System.out.println("rejeitado")); } 
         catch (Exception e) { e.printStackTrace(); }
-
-        try { recursaoInfinita(); } 
-        catch (StackOverflowError e) { e.printStackTrace(); }
 
         try { String invalido = "abc"; int num = Integer.parseInt(invalido); } 
         catch (Exception e) { e.printStackTrace(); }
