@@ -1,3 +1,5 @@
+package app;
+
 import java.io.File;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
@@ -73,5 +75,7 @@ public class Program {
         try { Field f = String.class.getDeclaredField("value"); f.setAccessible(true); f.set("abc", null); } 
         catch (Exception e) { e.printStackTrace(); }
 
-        try { Object obj = new Object(); Method m = Program.class.getDeclaredMethod("main", String[].class); m.invoke(obj, (Object) new S; }
+        try { Object obj = new Object(); Method m = Program.class.getDeclaredMethod("main", String[].class); m.invoke(obj, (Object) new S()); }
         catch (Exception e) {e.printStackTrace(); }
+        };
+        }
